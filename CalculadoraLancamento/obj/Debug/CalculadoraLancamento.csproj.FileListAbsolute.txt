@@ -1,0 +1,54 @@
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\bin\Debug\CalculadoraLancamento.exe.config
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\bin\Debug\CalculadoraLancamento.exe
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\bin\Debug\CalculadoraLancamento.pdb
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\bin\Debug\ClosedXML.dll
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\bin\Debug\ExcelNumberFormat.dll
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\bin\Debug\System.IO.Packaging.dll
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\bin\Debug\ClosedXML.pdb
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\bin\Debug\ClosedXML.xml
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\bin\Debug\ExcelNumberFormat.xml
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.Form1.resources
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.Properties.Resources.resources
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.csproj.GenerateResource.cache
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.csproj.CopyComplete
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.exe
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.pdb
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.telas.Nomes.resources
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.telas.TelaFeriado.resources
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.telas.Sobre.resources
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\bin\Debug\CalculadoraLancamento.exe.manifest
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\bin\Debug\CalculadoraLancamento.application
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.TrustInfo.xml
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.exe.manifest
+C:\Users\sergi\source\repos\CalculadoraLancamento\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.application
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\bin\Debug\CalculadoraLancamento.exe.config
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\bin\Debug\CalculadoraLancamento.exe.manifest
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\bin\Debug\CalculadoraLancamento.application
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\bin\Debug\CalculadoraLancamento.exe
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\bin\Debug\CalculadoraLancamento.pdb
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\bin\Debug\ClosedXML.dll
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\bin\Debug\ExcelNumberFormat.dll
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\bin\Debug\System.IO.Packaging.dll
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\bin\Debug\ClosedXML.pdb
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\bin\Debug\ClosedXML.xml
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\bin\Debug\ExcelNumberFormat.xml
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.csprojAssemblyReference.cache
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.Form1.resources
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.Properties.Resources.resources
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.telas.Nomes.resources
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.telas.Sobre.resources
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.telas.TelaFeriado.resources
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.csproj.GenerateResource.cache
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.TrustInfo.xml
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.exe.manifest
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.application
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.csproj.CopyComplete
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.exe
+C:\Users\sergi\Documents\Work\Lançamento de horas\Programa\Fonte - Horas TOTVS\CalculadoraLancamento\obj\Debug\CalculadoraLancamento.pdb
